@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const successMessage = document.getElementById("successMessage");
 
     // Constants
-    const ITEMS_PER_PAGE = 5;
+    const ITEMS_PER_PAGE = 12;
     const PASSCODE = '000000';
 
     // State Management
